@@ -1,1 +1,1 @@
-# ecernote-clone App with React, Hooks and Firebase
+# evernote-clone App with React, Hooks and Firebase
